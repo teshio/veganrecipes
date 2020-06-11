@@ -10,6 +10,18 @@
       "categories" : "{{ post.category }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: date_format }}"
+    } ,
+  {% endfor %}
+
+  {% assign recipes = site.recipes %}
+  {% assign date_format = site.date_format | default: "%m/%d/%Y" %}
+  {% for post in recipes %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "tags"     : "{{ post.tags | array_to_sentence_string }}",
+      "categories" : "{{ post.category }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date | date: date_format }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
