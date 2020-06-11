@@ -10,7 +10,7 @@ permalink: /recipes/
 {% assign recipes = site.recipes | sort:"order"%}
 {% for r in recipes %}
   <tr>
-    <td><a href="{{r.url}}">{{r.title}}</a></td>
+    <td><a href="{{r.url | prepend: site.baseurl | prepend: site.url}}">{{r.title}}</a></td>
     <td>{{ r.description | strip_html | truncatewords: 20 }}</td>
   </tr>
 {% endfor %}
