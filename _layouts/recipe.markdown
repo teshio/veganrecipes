@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p>
-<a href="/recipes">back to all recipes</a>
+<a href="{{ site.url }}{{site.baseurl}}/recipes">back to all recipes</a>
 </p>
 
 <h1> {{page.title}}</h1>
