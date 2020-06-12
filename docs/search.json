@@ -15,18 +15,18 @@
   
   
     {
-      "title"    : "Summery potato salad with smoked tofu",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/veganrecipes/summery-potato-salad-with-smoked-tofu",
-      "date"     : "06/12/2020"
-    } ,
-  
-    {
       "title"    : "Creamy Spinach Pasta",
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/veganrecipes/creamy-spinach-pasta",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Apple Crisps",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/apple-crisps",
       "date"     : "06/12/2020"
     } ,
   
@@ -39,10 +39,50 @@
     } ,
   
     {
+      "title"    : "Banana Bread",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/banana-bread",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Black Bean Burgers",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/black-bean-burgers",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
       "title"    : "Broccoli-Tomato salad with pine nuts",
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/veganrecipes/broccoli-tomato-salad-with-pine-nuts",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Chocolate Cookies",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/chocolate-cookies",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Chocolate Mousse with Berry Sauce",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/chocolate-mousse-with-berry-sauce",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Guacamole",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/creamy-guacamole",
       "date"     : "06/12/2020"
     } ,
   
@@ -63,10 +103,34 @@
     } ,
   
     {
+      "title"    : "Fluffy Hummus",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/fluffy-hummus",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Grilled Veg",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/grilled-veg",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
       "title"    : "Kale Salad",
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/veganrecipes/kale-salad-with-sweet-potatoe-and-pomegranate-seeds",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Nice Cream",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/nice-cream",
       "date"     : "06/12/2020"
     } ,
   
@@ -91,6 +155,22 @@
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/veganrecipes/simple-garden-salad",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Summery potato salad with smoked tofu",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/summery-potato-salad-with-smoked-tofu",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Tofu Scramble",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/tofu-scramble",
       "date"     : "06/12/2020"
     } ,
   
