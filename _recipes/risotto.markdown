@@ -4,7 +4,7 @@ title: Courgette and Mushroom Risotto
 tags: rissotto mushroom creamy
 permalink: /courgette-and-mushroom-risotto
 category: recipe
-
+recipe_category_id: 2
 description: Some people think it's impossible to achieve a cream and rich risotto without cheese and butter, but this will convince that that't not true! It it really important to use the right rice here and be patient! ... you have to keep stirring and stirring adding only more liquid once the rice has soaked up all the moisture.
 
 serves: 4
@@ -29,10 +29,6 @@ ingredients:
       - 100g pine nuts
       - 100g chopped parsley
 ---
-Serves: *{{page.serves}}* Prep Time: *{{page.time}}mins*
-
-
-<h4>Method</h4>
 1.	Chop garlic and shallot finely. Cut courgettes into chunks and the mushrooms into discs.
 2.	Add the oil to a pot on medium high heat. Add garlic, shallots and garlic and sauté the onion for 3-5 minutes, make sure not to brown them, add water if needed.
 3.	Once the shallots are translucent, add the soy sauce and let it reduce for 1 minute. Then add the courgettes and mushrooms. Let them cook for about 5 minutes until

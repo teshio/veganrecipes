@@ -38,7 +38,8 @@ plugins:
 collections:
   recipes:
     output: true
-
+  recipe_categories:
+    output: false
 
 menu:
   - title: Home

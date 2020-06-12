@@ -3,7 +3,7 @@ layout: recipe
 title: Kale Salad
 permalink: /kale-salad-with-sweet-potatoe-and-pomegranate-seeds
 category: recipe
-
+recipe_category_id: 1
 description: You'll love this salad for its vibrant colour and the satisfying feeling afterwards. I love the combination of the sweetness from pomegranate seeds and sweet potato and then the slightly bitter taste of kale. The tomatoes help to give this salad a fruity note! A mixture of textures and different tastes that give you the best of both; healthy eating and taste!
 
 serves: 4
@@ -27,9 +27,6 @@ ingredients:
       - 1/4 tsp. fine sea salt
       - 4 TBL water and more as needed
 ---
-
-<h4>Method</h4>
-
 1.	Preheat your oven to 180C. Wash and peel the sweet potatoes. Cut them into cubes and put them on a baking sheet. Pour 2 TBL oil and curry powder over the cubes and use your fingers to coat the cubes evenly. Put them into the oven for about 20-30 minutes and then check.
 2.	Rinse the quinoa, put in a pot with double the amount of water (3 cups) and bring it to a boil.
 3.	Once the quinoa starts to boil, let it cook for 5 minutes on high heat and then lower the heat and cover it partially with a lid. Let it simmer another 10-15 minutes until the water is gone and the quinoa is cooked. Remove the quinoa from the stove.

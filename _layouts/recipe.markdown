@@ -41,5 +41,12 @@ layout: page
   {% endfor %}
 </ul>
 
+<h4>Method</h4>
 
 {{page.content}}
+
+{% include share.html %}
+
+<p>
+<a href="{{ site.url }}{{site.baseurl}}/recipes">back to all recipes</a>
+</p>

@@ -15,11 +15,59 @@
   
   
     {
+      "title"    : "Summery potato salad with smoked tofu",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/summery-potato-salad-with-smoked-tofu",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Spinach Pasta",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/creamy-spinach-pasta",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Aubergine Pasta",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/aubergine-pasta",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Broccoli-Tomato salad with pine nuts",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/broccoli-tomato-salad-with-pine-nuts",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Pumpkin Soup",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/creamy-pumpkin-soup",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Antipasti Pasta",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/antipasti-pasta",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
       "title"    : "Kale Salad",
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/veganrecipes/kale-salad-with-sweet-potatoe-and-pomegranate-seeds",
-      "date"     : "06/11/2020"
+      "date"     : "06/12/2020"
     } ,
   
     {
@@ -27,7 +75,31 @@
       "tags"     : "rissotto, mushroom, and creamy",
       "categories" : "recipe",
       "url"      : "/veganrecipes/courgette-and-mushroom-risotto",
-      "date"     : "06/11/2020"
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Rustic Potato and Carrot Soup",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/rustic-potato-and-carrot-soup",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Simple Garden Salad",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/simple-garden-salad",
+      "date"     : "06/12/2020"
+    } ,
+  
+    {
+      "title"    : "Tomato Soup",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/veganrecipes/tomato-soup",
+      "date"     : "06/12/2020"
     } 
   
 ]
