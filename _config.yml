@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: happilyplantpowered
-title: happilyplantpowered
+name: happily plant powered
+title: happily plant powered
 email: contact@happilyplantpowered.com
 show_hero: true
 description: >- # this means to ignore newlines until "baseurl:"
