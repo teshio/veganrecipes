@@ -36,6 +36,7 @@ destination: docs
 theme: jekflix
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   recipes:
