@@ -29,6 +29,7 @@ url: "https://happilyplantpowered.com" # the base hostname & protocol for your s
 #twitter_username: jekyllrb
 #github_username:  jekyll
 instagram_username: happily.plant.powered
+google_analytics: "UA-174430278-1"
 
 # Build settings
 destination: docs
