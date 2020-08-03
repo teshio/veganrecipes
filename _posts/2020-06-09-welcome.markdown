@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome!"
 date:   2020-06-09 20:01:19 +0100
 categories: jekyll update
+category: post
 image: /assets/imgs/splash.jpg
 tags: vegan
 ---

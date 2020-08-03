@@ -2043,6 +2043,7 @@ footer {
     footer {
       margin-top: 6.25rem; } }
   footer p {
+    text-align: center;
     text-decoration: none;
     color: #146114;
     font-size: 1rem;
@@ -2053,11 +2054,7 @@ footer {
     width: 28px;
     height: 28px;
     display: inline-block;
-    vertical-align: middle;
-    margin-right: 0.625rem; }
-    @media (min-width: 37.5rem) {
-      footer svg {
-        margin-right: 1.25rem; } }
+    vertical-align: middle; }
     footer svg.love {
       width: 20px;
       height: 20px;

@@ -1,7 +1,7 @@
 .comments {
   @include center(rem(800px));
   padding: 0 rem(20px);
-  
+
   h3 {
     margin: 0 0 rem(30px);
     font-size: rem(30px);
@@ -22,6 +22,7 @@ footer {
   }
 
   p {
+    text-align: center;
     text-decoration: none;
     color: $primaryDark;
     font-size: rem(16px);
@@ -36,10 +37,10 @@ footer {
     @include size(28, 28);
     display: inline-block;
     vertical-align: middle;
-    margin-right: rem(10px);
+    //margin-right: rem(10px);
 
     @include media(">=sm") {
-      margin-right: rem(20px);
+      //margin-right: rem(20px);
     }
 
     &.love {
@@ -57,11 +58,11 @@ footer {
     transition: all 0.3s ease;
     text-decoration: none;
     color: #808080;
-    
+
     &:hover {
       fill: $themeColor;
     }
-    
+
     &.creator:hover {
       text-decoration: underline;
     }
@@ -78,7 +79,7 @@ footer {
     a {
       text-decoration: none;
       font-size: rem(15px);
-      
+
       &:hover {
         text-decoration: underline;
       }
@@ -90,7 +91,7 @@ footer {
   footer {
     background: $primaryDark;
     border-top: 1px solid lighten($primaryDark, 10%);
-    
+
     p {
       color: $accentDark;
     }
