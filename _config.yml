@@ -24,8 +24,8 @@ email: contact@myplantpowerediet.com
 show_hero: true
 description: >- # this means to ignore newlines until "baseurl:"
   A great collection of inspiring easy and awesome vegan recipes!
-baseurl: "/veganrecipes" # the subpath of your site, e.g. /blog
-url: "http://preteshmistry.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://happilyplantpowered.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

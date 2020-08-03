@@ -32,5 +32,7 @@ permalink: /recipes/
   </table>
   </p>
 
+  {% unless forloop.last %}<hr>{% endunless %}
+
 
 {% endfor %}
