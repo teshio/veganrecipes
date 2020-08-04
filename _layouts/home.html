@@ -144,7 +144,7 @@ layout: main
     "mainEntity": {
         "@type": "ItemList",
         "itemListElement": [
-        {% assign limit = 8 %}
+        {% assign limit = 1 %}
         {% for post in posts limit: limit %}
             {% assign author = site.authors | where: "name", post.author | first %}
             {
