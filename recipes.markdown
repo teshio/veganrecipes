@@ -13,9 +13,9 @@ permalink: /recipes/
   <section>
     <h2>{{c.title}}</h2>
 
-    {{c.description}}
 
     <p>
+    {{c.description}}
     <table>
     {% assign recipes = site.recipes | sort:"order"%}
     {% for r in recipes %}
