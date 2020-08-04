@@ -16,7 +16,7 @@ ingredients:
       - 2 TBL oil
       - 3 tsp dried thyme (optional)
       - shallots
-      - 4 garlic clovs
+      - 4 garlic cloves
       - 3 courgettes
       - 500g mushrooms
       - 200ml white wine

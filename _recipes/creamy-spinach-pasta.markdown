@@ -11,8 +11,11 @@ time: 60
 ingredients:
   - top-level: Grilled Veg
     items:
-      - 3 medium courgettes 3 medium bell peppers
-      - 2 red onions 3 TBL oil salt and pepper to taste
+      - 3 medium courgettes
+      - 3 medium bell peppers
+      - 2 red onions
+      - 3 TBL oil
+      - salt and pepper to taste
 
   - top-level: Pasta
     items:

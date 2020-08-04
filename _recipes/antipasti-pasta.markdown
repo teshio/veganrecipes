@@ -11,11 +11,13 @@ time: 60
 ingredients:
   - top-level: Sauce
     items:
-      - 3 TBL of oil
+      - 3 tbs of oil
       - 1 medium onion
       - 4 garlic cloves
-      - 1 lemon worth of juice Ikg spinach about 250-500ml vegan cream (e.g. Alpro Soy Cuisine)
-      - about 5 TBL of nutritional yeast
+      - 1 lemon worth of juice
+      - 1kg spinach
+      - 250-500ml vegan cream (e.g. Alpro Soy Cuisine)
+      - 5 tbs of nutritional yeast
       - salt and pepper to taste
 
   - top-level: Pasta

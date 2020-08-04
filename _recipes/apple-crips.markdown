@@ -12,7 +12,8 @@ time: 60
 ingredients:
   - top-level: apples
     items:
-      - 6-8 apples (British cox are a good) juice of one lemon time(!)
+      - 6-8 apples (British cox are a good)
+      - juice of one lemon time(!)
 ---
 1.	Preheat your oven to 85 degrees.
 2.	Wash the apples and core them. For this you can use an apple corer. If you don't have one follow the instructions under 3.

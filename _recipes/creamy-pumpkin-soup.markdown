@@ -24,7 +24,9 @@ ingredients:
     items:
       - 3 TBL of oil
       - 2 courgettes
-      - 500g of mushrooms salt and pepper to taste toasted rye bread
+      - 500g of mushrooms
+      - salt and pepper to taste
+      - toasted rye bread
 
 ---
 1.	Finely chop the onion.

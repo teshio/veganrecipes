@@ -15,13 +15,16 @@ ingredients:
       - 500g cocktail tomatoes
       - 1 shallot
       - 50g pine nuts
-      - 1 1/2 cups dry quinoa 250g of smoked tofu
+      - 1 1/2 cups dry quinoa
+      - 250g of smoked tofu
 
   - top-level: Dressing
     items:
       - 4 TBL of olive oil
       - 3 TBL balsamic vinegar
-      - 3 TBL maple syrup (or honey) pinch of salt pinch of black pepper
+      - 3 TBL maple syrup (or honey)
+      - pinch of salt
+      - pinch of black pepper
 
 ---
 1.	Rinse the quinoa, put in a pot with double the amount of water (3 cups) and bring it to a boil.

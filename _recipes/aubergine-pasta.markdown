@@ -16,7 +16,9 @@ ingredients:
       - 3-4 cloves of garlic
       - 2	medium aubergines
       - 1/2 tsp. dried and crushed chilli
-      - 3	cans of tomatoes 1 Tbs of sugar salt to taste pepper
+      - 3	cans of tomatoes
+      - 1 Tbs of sugar
+      - salt to taste pepper
 
   - top-level: Pasta
     items:

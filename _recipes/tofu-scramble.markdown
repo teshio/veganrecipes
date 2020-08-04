@@ -13,7 +13,9 @@ ingredients:
     items:
       - 1 TBL of oil
       - 1 medium white onion
-      - 4 garlic cloves about 450-500g of extra firm tofu 500g cocktail tomatoes
+      - 4 garlic cloves
+      - about 450-500g of extra firm tofu
+      - 500g cocktail tomatoes
       - 200-300g baby spinach or kale
       - 1/2 to 3/4 cup of soy/almond milk
       - 5 TBL nutritional yeast

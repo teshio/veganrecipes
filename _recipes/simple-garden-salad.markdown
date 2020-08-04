@@ -20,7 +20,8 @@ ingredients:
       - 6 TBL of olive oil
       - 3 TBL of balsamic vinegar (use lemon juice instead)
       - 1	tsp. of Dijon mustard
-      - 1-2 tsp. of maple syrup (replace with honey) salt and pepper to taste
+      - 1-2 tsp. of maple syrup (replace with honey)
+      - salt and pepper to taste
 
 
 ---

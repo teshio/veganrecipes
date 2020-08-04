@@ -14,12 +14,14 @@ ingredients:
       -2	TBL of oil
       - 1kg potatoes
       - 400g carrots
-      - 2-3 medium white onion 1-1.5 litres of vegetable stock about h TBL juniper berries 2-3 bay leaves
+      - 2-3 medium white onion
+      - 1-1.5 litres of vegetable stock
+      - about 1 TBL juniper berries
+      - 2-3 bay leaves
 
   - top-level: Toppings
     items:
-      - 250g smoked tofu
-      - (sundried tomatoes also work well)
+      - 250g smoked tofu (sundried tomatoes also work well)
       - 50g parsley
 
 

@@ -23,7 +23,8 @@ ingredients:
   - top-level: Dressing
     items:
       - 1/2 cup tahini
-      - 3-6 TBL of lemon juice 2 tsp. maple syrup or honey
+      - 3-6 TBL of lemon juice
+      - 2 tsp. maple syrup or honey
       - 1/4 tsp. fine sea salt
       - 4 TBL water and more as needed
 ---
