@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Welcome!"
+title: "Website Launched"
+subtitle: Welcome
 date: 2020-06-09 20:01:19 +0100
 #categories: news
 #category: post

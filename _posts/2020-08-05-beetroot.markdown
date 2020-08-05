@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "New Recipe - Beetroot salad with mint 🥗🥒🥬"
+title: "Beetroot salad with mint 🥗🥒🥬"
+subtitle: New Recipe
 #date: 2020-08-07 20:11:19 +0100
 #categories: news
 #category: post
