@@ -3,10 +3,18 @@
   
   
     {
+      "title"    : "New Recipe - Beetroot salad with mint 🥗🥒🥬",
+      "tags"     : "new-recipe and salad",
+      "categories" : "",
+      "url"      : "/2020/08/05/beetroot.html",
+      "date"     : "08/05/2020"
+    } ,
+  
+    {
       "title"    : "Welcome!",
-      "tags"     : "vegan",
-      "categories" : "post",
-      "url"      : "/jekyll/update/post/2020/06/09/welcome.html",
+      "tags"     : "news",
+      "categories" : "",
+      "url"      : "/2020/06/09/welcome.html",
       "date"     : "06/09/2020"
     } ,
   
@@ -43,6 +51,14 @@
       "tags"     : "",
       "categories" : "recipe",
       "url"      : "/banana-bread",
+      "date"     : "08/05/2020"
+    } ,
+  
+    {
+      "title"    : "Beetroot Salad with Mint",
+      "tags"     : "vegan, beetroot, mint, and salad",
+      "categories" : "recipe",
+      "url"      : "/beetroot-salad-with-mint",
       "date"     : "08/05/2020"
     } ,
   

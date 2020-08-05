@@ -7,6 +7,11 @@ layout: page
 </p>
 
 <h1> {{page.title}}</h1>
+{% if page.header_image %}
+  <p>
+    <img src="{{page.header_image}}">
+  </p>
+{% endif %}
 
 <p>
 {{page.description}}
