@@ -6,7 +6,7 @@ category: recipe
 recipe_category_id: 1
 description: A quick, easy and nutritious salad.
 header_image: /assets/imgs/recipes/beetroot-salad-1.jpg
-tags: vegan beetroot mint salad
+tags: vegan beetroot mint salad meal-prep summer-salad
 serves: 4
 time: 60
 ingredients:
