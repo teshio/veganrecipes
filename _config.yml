@@ -44,6 +44,9 @@ collections:
   recipe_categories:
     output: false
 
+sass:
+  style: compressed
+
 menu:
   - title: Home
     url: /
