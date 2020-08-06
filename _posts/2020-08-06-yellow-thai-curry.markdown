@@ -10,7 +10,7 @@ showImage: true
 tags: new-recipe curry quickmeals
 ---
 
-his recipe is so simple and quick! You basically just need a can of coconut milk 🥥, some veggies🥕🥦🌶, chickpeas and most importantly a good vegan curry paste 🙃. It’s ready in 15-25 minutes (depending on your knife skills 😄). I just served it with some millet as it cooks faster than rice 😊
+This recipe is so simple and quick! You basically just need a can of coconut milk 🥥, some veggies🥕🥦🌶, chickpeas and most importantly a good vegan curry paste 🙃. It’s ready in 15-25 minutes (depending on your knife skills 😄). I just served it with some millet as it cooks faster than rice 😊
 
 <a href="">Take me to the recipe - coming soon!</a>
 
