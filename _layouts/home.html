@@ -18,7 +18,12 @@ layout: main
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
-        <section class="hero" style="background-image: url({{ featured.image | prepend: site.baseurl | prepend: site.url }})">
+        {% assign featuredImg = featured.image %}
+        {% if featured.optimized_image %}
+        {% assign featuredImg = featured.optimized_image %}
+        {% endif %}
+
+        <section class="hero" style="background-image: url({{ featuredImg | prepend: site.baseurl | prepend: site.url }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">

@@ -6,6 +6,7 @@ subtitle: New Recipe
 #categories: news
 #category: post
 image: /assets/imgs/recipes/thai-curry-1.jpg
+optimized_image: /assets/imgs/recipes/thai-curry-1-small.jpg
 showImage: true
 tags: new-recipe curry quickmeals
 ---
