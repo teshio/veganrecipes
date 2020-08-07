@@ -21,7 +21,7 @@
       "tags"     : "{{ post.tags | array_to_sentence_string }}",
       "categories" : "{{ post.category }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: date_format }}"
+      "date"     : "{{ post.last_modified_at | date: date_format }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

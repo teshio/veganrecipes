@@ -2,6 +2,7 @@
 layout: recipe
 title: Chocolate Cookies
 permalink: /chocolate-cookies
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 5
 description: I really love these cookies... I have stopped making them, because I just end up eating the whole batch and you might find yourself doing that, too!

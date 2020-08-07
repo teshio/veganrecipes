@@ -2,6 +2,7 @@
 layout: recipe
 title: Kale Salad
 permalink: /kale-salad-with-sweet-potatoe-and-pomegranate-seeds
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 1
 description: You'll love this salad for its vibrant colour and the satisfying feeling afterwards. I love the combination of the sweetness from pomegranate seeds and sweet potato and then the slightly bitter taste of kale. The tomatoes help to give this salad a fruity note! A mixture of textures and different tastes that give you the best of both; healthy eating and taste!

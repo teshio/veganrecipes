@@ -2,6 +2,7 @@
 layout: recipe
 title: Broccoli-Tomato salad with pine nuts
 permalink: /broccoli-tomato-salad-with-pine-nuts
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 1
 description: This salad makes it possible to eat broccoli in a salad! Eat some cooked chickpeas or smoked tofu on the side to give you some extra protein. This salad offers plenty of antioxidants, vitamins, fiber and is still tasty — if that's not a win then I don't know...

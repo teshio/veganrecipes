@@ -3,6 +3,7 @@ layout: recipe
 title: Courgette and Mushroom Risotto
 tags: rissotto mushroom creamy
 permalink: /courgette-and-mushroom-risotto
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 2
 description: Some people think it's impossible to achieve a cream and rich risotto without cheese and butter, but this will convince that that't not true! It it really important to use the right rice here and be patient! ... you have to keep stirring and stirring adding only more liquid once the rice has soaked up all the moisture.

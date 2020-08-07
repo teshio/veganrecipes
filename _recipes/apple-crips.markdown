@@ -2,6 +2,7 @@
 layout: recipe
 title: Apple Crisps
 permalink: /apple-crisps
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 5
 description: I love these... I used to be addicted to store bought ones, but let me tell you they're even better homemade! They bring back memories to hiking holidays in the mountains of South Tyrol and offer the nice crunch that makes potato crisps so addictive. Sometimes I like to dip them into a bit of almond butter if I'm feeling extra indulgent. But beware; this recipe requires patience and time. So it's best to make these when you're doing home office, cleaning the house or just have a lazy Sunday.

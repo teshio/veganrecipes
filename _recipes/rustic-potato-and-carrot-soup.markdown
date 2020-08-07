@@ -2,6 +2,7 @@
 layout: recipe
 title: Rustic Potato and Carrot Soup
 permalink: /rustic-potato-and-carrot-soup
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 3
 description: This soup is one of my favourites. It's simple, but good and reminds me of my childhood. My mum used to make it with roux (a combination of flour and butter to thicken the soup) and some sausages. No butter and sausage in this recipe, but believe you won't miss them! smoked tofu makes a great replacement for the sausages and just mash a few of the potato chunks at the end to make the soup a bit thicker. I honestly eat this at least once a week from October until January. Try it and you'll understand why... Potatoes are life!

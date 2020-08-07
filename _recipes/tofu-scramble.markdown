@@ -2,6 +2,7 @@
 layout: recipe
 title: Tofu Scramble
 permalink: /tofu-scramble
+last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 4
 description: Do you sometimes miss having eggs in some form? Be it poached, boiled, fried or scrambled. Admittedly, it's a bit tough to replace them... It's easy in cakes or cookies and even pancakes, but there's nothing that has quite the same texture. However, I have found that this scramble satisfies my egg-craving really well! The black salt gives it the slightly eggy taste and nutritional yeast as well as plant milk help to achieve similar creaminess. I do find this scramble tastes best on toasted rye bread that is topped with creamy guacamole. A perfect breakfast for the weekend if you feel like something hearty and have a little bit of time. But I also find it makes a great high protein dinner after a workout.
