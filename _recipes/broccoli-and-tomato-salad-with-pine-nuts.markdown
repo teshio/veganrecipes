@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Broccoli-Tomato salad with pine nuts
-permalink: /broccoli-tomato-salad-with-pine-nuts
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 1

@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Chocolate Mousse with Berry Sauce
-permalink: /chocolate-mousse-with-berry-sauce
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 5

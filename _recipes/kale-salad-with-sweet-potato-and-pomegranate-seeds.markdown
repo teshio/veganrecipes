@@ -1,7 +1,6 @@
 ---
 layout: recipe
-title: Kale Salad
-permalink: /kale-salad-with-sweet-potatoe-and-pomegranate-seeds
+title: Kale salad with sweet potato and pomegranate seeds
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 1

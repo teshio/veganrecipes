@@ -39,10 +39,10 @@
   
   
     {
-      "title"    : "Creamy Spinach Pasta",
+      "title"    : "Antipasti Pasta",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/creamy-spinach-pasta",
+      "url"      : "/recipes/antipasti-pasta",
       "date"     : "09.06.2020"
     } ,
   
@@ -50,7 +50,7 @@
       "title"    : "Apple Crisps",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/apple-crisps",
+      "url"      : "/recipes/apple-crips",
       "date"     : "09.06.2020"
     } ,
   
@@ -58,7 +58,7 @@
       "title"    : "Aubergine Pasta",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/aubergine-pasta",
+      "url"      : "/recipes/aubergine-pasta",
       "date"     : "09.06.2020"
     } ,
   
@@ -66,7 +66,7 @@
       "title"    : "Banana Bread",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/banana-bread",
+      "url"      : "/recipes/banana-bread",
       "date"     : "09.06.2020"
     } ,
   
@@ -74,7 +74,7 @@
       "title"    : "Beetroot Salad with Mint",
       "tags"     : "vegan, beetroot, mint, salad, meal-prep, and summer-salad",
       "categories" : "recipe",
-      "url"      : "/beetroot-salad-with-mint",
+      "url"      : "/recipes/beetroot-salad-with-mint",
       "date"     : "05.08.2020"
     } ,
   
@@ -82,7 +82,7 @@
       "title"    : "Black Bean Burgers",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/black-bean-burgers",
+      "url"      : "/recipes/black-bean-burgers",
       "date"     : "09.06.2020"
     } ,
   
@@ -90,7 +90,7 @@
       "title"    : "Broccoli-Tomato salad with pine nuts",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/broccoli-tomato-salad-with-pine-nuts",
+      "url"      : "/recipes/broccoli-and-tomato-salad-with-pine-nuts",
       "date"     : "09.06.2020"
     } ,
   
@@ -98,7 +98,7 @@
       "title"    : "Chocolate Cookies",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/chocolate-cookies",
+      "url"      : "/recipes/chocolate-cookies",
       "date"     : "09.06.2020"
     } ,
   
@@ -106,63 +106,7 @@
       "title"    : "Chocolate Mousse with Berry Sauce",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/chocolate-mousse-with-berry-sauce",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Creamy Guacamole",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/creamy-guacamole",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Creamy Pumpkin Soup",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/creamy-pumpkin-soup",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Antipasti Pasta",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/antipasti-pasta",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Fluffy Hummus",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/fluffy-hummus",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Grilled Veg",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/grilled-veg",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Kale Salad",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/kale-salad-with-sweet-potatoe-and-pomegranate-seeds",
-      "date"     : "09.06.2020"
-    } ,
-  
-    {
-      "title"    : "Nice Cream",
-      "tags"     : "",
-      "categories" : "recipe",
-      "url"      : "/nice-cream",
+      "url"      : "/recipes/chocolate-mousse-with-berry-sauce",
       "date"     : "09.06.2020"
     } ,
   
@@ -170,7 +114,63 @@
       "title"    : "Courgette and Mushroom Risotto",
       "tags"     : "rissotto, mushroom, and creamy",
       "categories" : "recipe",
-      "url"      : "/courgette-and-mushroom-risotto",
+      "url"      : "/recipes/courgette-and-mushroom-risotto",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Guacamole",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/creamy-guacamole",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Pumpkin Soup",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/creamy-pumpkin-soup",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Creamy Spinach Pasta",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/creamy-spinach-pasta",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Fluffy Hummus",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/fluffy-hummus",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Grilled Veg",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/grilled-veg",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Kale salad with sweet potato and pomegranate seeds",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/kale-salad-with-sweet-potato-and-pomegranate-seeds",
+      "date"     : "09.06.2020"
+    } ,
+  
+    {
+      "title"    : "Nice Cream",
+      "tags"     : "",
+      "categories" : "recipe",
+      "url"      : "/recipes/nice-cream",
       "date"     : "09.06.2020"
     } ,
   
@@ -178,7 +178,7 @@
       "title"    : "Rustic Potato and Carrot Soup",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/rustic-potato-and-carrot-soup",
+      "url"      : "/recipes/rustic-potato-and-carrot-soup",
       "date"     : "09.06.2020"
     } ,
   
@@ -186,7 +186,7 @@
       "title"    : "Simple Garden Salad",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/simple-garden-salad",
+      "url"      : "/recipes/simple-garden-salad",
       "date"     : "09.06.2020"
     } ,
   
@@ -194,7 +194,7 @@
       "title"    : "Summery potato salad with smoked tofu",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/summery-potato-salad-with-smoked-tofu",
+      "url"      : "/recipes/summer-potato-salad-with-smoked-tofu",
       "date"     : "09.06.2020"
     } ,
   
@@ -202,7 +202,7 @@
       "title"    : "Tofu Scramble",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/tofu-scramble",
+      "url"      : "/recipes/tofu-scramble",
       "date"     : "09.06.2020"
     } ,
   
@@ -210,7 +210,7 @@
       "title"    : "Tomato Soup",
       "tags"     : "",
       "categories" : "recipe",
-      "url"      : "/tomato-soup",
+      "url"      : "/recipes/tomato-soup",
       "date"     : "09.06.2020"
     } 
   

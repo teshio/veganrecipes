@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Apple Crisps
-permalink: /apple-crisps
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 5

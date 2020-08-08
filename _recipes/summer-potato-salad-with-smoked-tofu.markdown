@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Summery potato salad with smoked tofu
-permalink: /summery-potato-salad-with-smoked-tofu
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 1

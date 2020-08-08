@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Beetroot Salad with Mint
-permalink: /beetroot-salad-with-mint
 last_modified_at: 2020-08-05
 category: recipe
 recipe_category_id: 1

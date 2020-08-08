@@ -44,6 +44,7 @@ plugins:
 collections:
   recipes:
     output: true
+    permalink: /:collection/:title
   recipe_categories:
     output: false
 

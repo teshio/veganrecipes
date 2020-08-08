@@ -12,4 +12,4 @@ tags: new-recipe salad
 
 I love meal prep 😌 because it saves me so much time during the busy week. Lately I really enjoy a range of nutritious salads and this one is great for meal prep or summer barbecues. 😊
 
-<a href="{{ "/beetroot-salad-with-mint"  | prepend: site.baseurl | prepend: site.url }}">Take me to the recipe</a>
+<a href="{{ "/recipes/beetroot-salad-with-mint"  | prepend: site.baseurl | prepend: site.url }}">Take me to the recipe</a>

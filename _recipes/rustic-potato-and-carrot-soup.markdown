@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Rustic Potato and Carrot Soup
-permalink: /rustic-potato-and-carrot-soup
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 3

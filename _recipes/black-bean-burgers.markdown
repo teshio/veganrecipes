@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Black Bean Burgers
-permalink: /black-bean-burgers
 last_modified_at: 2020-06-09
 category: recipe
 recipe_category_id: 4
