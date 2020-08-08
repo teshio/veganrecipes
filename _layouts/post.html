@@ -34,6 +34,9 @@
                 {{ content }}
 
                 {% include pagination-post.html %}
+
+                {% include disqus.html %}
+
             </article>
 
             {% if site.two_columns_layout %}
@@ -60,6 +63,7 @@
                 </aside>
             {% endif %}
 
+
         </section>
 
         <!-- Add time bar only for pages without pagination -->
@@ -67,6 +71,8 @@
             {% include time-bar.html %}
             {% include recommendation.html %}
         {% endif %}
+
+
 
         <!-- Show modal if the post is the last one -->
         {% if paginator.is_last and site.show_modal_on_finish_post %}

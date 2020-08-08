@@ -22,6 +22,7 @@ name: happily plant powered
 title: happily plant powered
 email: contact@happilyplantpowered.com
 language: en-gb
+date_format: "%d.%m.%Y"
 show_hero: true
 description: >- # this means to ignore newlines until "baseurl:"
   A great collection of inspiring easy and awesome vegan recipes!
