@@ -9,7 +9,7 @@ layout: page
 <h1> {{page.title}}</h1>
 {% if page.header_image %}
   <p>
-    <img src="{{page.header_image}}">
+    <img src="{{page.header_image}}" alt="{{page.title}}">
   </p>
 {% endif %}
 

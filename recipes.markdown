@@ -16,6 +16,7 @@ permalink: /recipes/
 
     <p>
     {{c.description}}
+    </p>
 
     <table>
     {% assign recipes = site.recipes | sort:"order"%}
@@ -33,7 +34,6 @@ permalink: /recipes/
     {% endfor %}
     </table>
 
-    </p>
   </section>
   {% unless forloop.last %}<hr>{% endunless %}
 

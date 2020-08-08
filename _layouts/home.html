@@ -14,7 +14,7 @@ layout: main
     {% assign offset = 0 %}
 {% endif %}
 
-<main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
+<main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
@@ -54,19 +54,19 @@ layout: main
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                         {% include loader.html %}
                         {% if post.optimized_image %}
-                            <img src="/assets/img/placeholder.png" width="100%" alt="{{post.title}} - splash image" data-url="{{ post.optimized_image }}" class="preload">
+                            <img src="/assets/img/placeholder.png" alt="{{post.title}} - splash image" data-url="{{ post.optimized_image }}" class="preload full-width">
                             <noscript>
-                                <img src="{{ post.optimized_image }}" width="100%">
+                                <img src="{{ post.optimized_image }}" alt="{{post.title}}" class="full-width">
                             </noscript>
                         {% elsif post.image %}
-                            <img src="/assets/img/placeholder.png" width="100%" alt="{{post.title}} - splash image" data-url="{{ post.image }}" class="preload">
+                            <img src="/assets/img/placeholder.png" alt="{{post.title}} - splash image" data-url="{{ post.image }}" class="preload full-width">
                             <noscript>
-                                <img src="{{ post.image }}" width="100%">
+                                <img src="{{ post.image }}" alt="{{post.title}}" class="full-width">
                             </noscript>
                         {% else %}
-                            <img src="/assets/img/placeholder.png" width="100%" alt="{{post.title}} - splash image" data-url="/assets/img/off.jpg" class="preload">
+                            <img src="/assets/img/placeholder.png" alt="{{post.title}} - splash image" data-url="/assets/img/off.jpg" class="preload full-width">
                             <noscript>
-                                <img src="/assets/img/off.jpg" width="100%">
+                                <img src="/assets/img/off.jpg" alt="{{post.title}}" class="full-width">
                             </noscript>
                         {% endif %}
                         {% include new-post-tag.html date=post.date %}
