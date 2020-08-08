@@ -3,8 +3,7 @@ layout: post
 title: "Beetroot salad with mint 🥗🥒🥬"
 subtitle: New Recipe
 #date: 2020-08-07 20:11:19 +0100
-#categories: news
-#category: post
+categories: news
 image: /assets/imgs/recipes/beetroot-salad-1.jpg
 optimized_image: /assets/imgs/recipes/beetroot-salad-1-small.jpg
 showImage: true

@@ -2,9 +2,7 @@
 layout: post
 title: "My favourite kind of food at the moment"
 #subtitle: inspiration
-#date: 2020-08-07
-#categories: news
-#category: post
+categories: news
 image: /assets/imgs/recipes/bhindi-masala-1.jpg
 optimized_image: /assets/imgs/recipes/bhindi-masala-1-small.jpg
 showImage: true
