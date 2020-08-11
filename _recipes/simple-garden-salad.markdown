@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Simple Garden Salad
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 1
 description: This salad is a great side for any heavy meal, because it is light and fresh. I personally just love raw cocktail tomatoes, they're a must in any salad. However, the trickiest part is the dressing, if it's not good, the salad won't taste at all, but if it's good you might just eat the whole bowl and forget about your main! Sometimes I'll add some pan-fried tofu or beans to this salad and have it as a main with some toasted rye bread on the side... perfect if it's hot outside and you feel like have something refreshing.

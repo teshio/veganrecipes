@@ -1,25 +1,32 @@
 ---
 layout: page
 title: Recipes
+last_modified_at: 2020-08-11 09:30
 permalink: /recipes/
 ---
 
 <h1>Recipes</h1>
 
 {% assign categories = site.recipe_categories | sort:"category_id"%}
+{% assign recipes = site.recipes | sort:"order"%}
+
 {% for c in categories %}
   {% assign category_id = c.category_id %}
 
   <section>
     <h2>{{c.title}}</h2>
 
-
     <p>
     {{c.description}}
     </p>
 
     <table>
-    {% assign recipes = site.recipes | sort:"order"%}
+    <thead>
+      <tr>
+      <th>test</th>
+      </tr>
+    </thead>
+
     {% for r in recipes %}
     {% if r.recipe_category_id == category_id %}
       <tr>
@@ -33,7 +40,6 @@ permalink: /recipes/
     {% endif %}
     {% endfor %}
     </table>
-
   </section>
   {% unless forloop.last %}<hr>{% endunless %}
 

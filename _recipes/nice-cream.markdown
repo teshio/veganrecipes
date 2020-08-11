@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Nice Cream
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 5
 description: Don't we all love ice cream and cookies? Best movie snack ever! However, I often feel really sluggish and uncomfortably full after having my cheeky movie time snack. I just can't stop when I'm full... This ice cream is easy to whip up at home and you can eat a lot more without feeling guilty or stuffed! You can add different flavourings to your base.

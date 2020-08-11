@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Fluffy Hummus
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 4
 description: What is the secret of really good hummus? It's the order in which you put the ingredients into your food processor... I could not believe how easy it is! And you really need to add olive and some water... It makes a big difference. If you are feeling extra fancy, you can peel your chickpeas to make the hummus even more fluffy, but I personally find that tedious and unnecessary.

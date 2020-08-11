@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Beetroot Salad with Mint
-last_modified_at: 2020-08-05
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 1
 description: A quick, easy and nutritious salad.

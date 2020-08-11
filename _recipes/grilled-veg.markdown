@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Grilled Veg
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 4
 description: This is a staple for me... It's not even a real dish, but as it is used so often, it definitely deserves a page! I add this to my burgers as topping, soups, pizza or some sandwiches. However, it also tastes great as antipasti with a pre-dinner drink!

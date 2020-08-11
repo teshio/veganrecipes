@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Creamy Pumpkin Soup
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 3
 description: This soup is just perfect! It achieves a creamy and rich texture without any nasty ingredients and I also find the ginger and curry powder gives it tiny Asian twist. It's flavourful and ridiculously easy to make.

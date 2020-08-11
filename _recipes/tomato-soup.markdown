@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Tomato Soup
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 3
 description: I only made this recipe once, because I convinced myself to also make the ciabatta myself... which was a ridiculous amount of effort. But the soup was really good and I keep think about making it again, this is one of the few soups, I actually would like to eat in the summer. I love the fruity taste of the tomatoes, it is even more intensified as the roasted in this recipe. Tomatoes are my favourite vegetable (although the're actually a fruit!) and I've had many tomato soups in restaurants lately, only to be disappointed, because they're no match for this recipe... I hope you'll enjoy it as much as I did.

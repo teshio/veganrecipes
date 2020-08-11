@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Creamy Spinach Pasta
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 2
 description: As a child I loved creamed spinach... At times I would just have the frozen creamed spinach for dinner, sometimes with pasta, sometimes with a fried egg and potatoes or just by itself... So this brings back memories of my earliest cooking days, but I've made a few tweaks to make it tastier and a bit more like a real dish and not just warmed up frozen stuff... Saying this, feel free to use frozen spinach instead!

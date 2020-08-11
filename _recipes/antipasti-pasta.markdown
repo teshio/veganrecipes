@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Antipasti Pasta
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 2
 description: A friend of mine made this dish for me and I have to say, I was hooked! It works warm as well as cold and is perfect for summer evenings. It also changes up things a little bit as the veg is prepared in the oven, so you don't have to stir in the pasta sauce for 20 minutes while starving.

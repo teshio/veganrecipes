@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Black Bean Burgers
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 4
 description: If I really feel like treating myself, I'll make a batch of those and serve them with creamy guacamole and some oven baked potato wedges. They are so flavourful and yummy that I'm not even ashamed to serve them to some of my meat-eating and bean-hating friends. So far, everyone has liked them. I personally oppose the usage of vegan cheese, I find it disgusting and it is almost as unhealthy and calorific as the original (most vegan cheese is made form coconut oil). The guacamole works great as a replacement and some sautéed red onions and grilled veg add some much flavour that cheese is really not needed -Take it from someone you never had a burger without cheese before going vegan.

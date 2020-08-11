@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Chocolate Mousse with Berry Sauce
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 5
 description: My dad makes the most epic chocolate mousse, but it's not vegan O! I found this recipe, and I do have to say that this is quite a good replacement. The bonus; it's really easy to make and even qualifies as a high protein treat since we're using silken tofu!

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Aubergine Pasta
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 2
 description: This is my favourite pasta sauce... I could eat it every day, there's nothing more to say, try it for yourself

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Summery potato salad with smoked tofu
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 1
 description: This salad is a homage to all the great picknicks we had as a family. We would make sandwiches, this salad and take some fruit with us. After cycling for a while and balling badminton or volleyball we would sit down and enjoy this in the sun on a pick-nick blanket. This version uses smoked tofu as bacon replacement. It's a really good light dinner on hot days or a great addition to any barbecue or vegan burgers! Sometimes I like to add 500g of cherry tomatoes for sweetness or 500g of radishes for freshness, but the recipe is great as it is... Try and see for yourself!

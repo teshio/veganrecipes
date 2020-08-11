@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Creamy Guacamole
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 4
 description: This is one of my favourite homemade spreads... it's so versatile. You can add this into your sandwiches, dip your oven baked chips in it, put it on top of your burger.

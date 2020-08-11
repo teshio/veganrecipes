@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Banana Bread
-last_modified_at: 2020-06-09
+last_modified_at: 2020-08-11 09:30
 category: recipe
 recipe_category_id: 5
 description: This banana bread is heavenly! It fluffy, a little moist and tastes so indulgent. It's a great after dinner treat (with some cheeky nice cream or actual ice cream if you're feeling extra fancy) or tastes great with some afternoon tea. I've taken this to many barbecues and everyone has loved it so far.
