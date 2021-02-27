@@ -23,7 +23,7 @@ permalink: /recipes/
     <table>
     <thead>
       <tr>
-      <th>test</th>
+      <th>{{c.title}}</th>
       </tr>
     </thead>
 
