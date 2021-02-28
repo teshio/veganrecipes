@@ -151,7 +151,7 @@ layout: main
             {
                 "@type": "BlogPosting",
                 "name": "{{ post.title }}",
-                "headline": "{{ post.subtitle }}",
+                "headline": "{{ post.subtitle | default: post.title }}",
                 "description": "{{ post.description }}",
                 "image": "{{ post.image }}",
                 "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
@@ -175,7 +175,6 @@ layout: main
                         "height": "315"
                     }
                 },
-                "headline": "{{post.title}}",
                 "mainEntityOfPage": "True",
                 "genre": "{{ post.category | capitalize }}",
 		        "articleSection": "{{ post.category | capitalize }}",
