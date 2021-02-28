@@ -128,7 +128,7 @@
             "@context": "http://schema.org",
             "@type": "BlogPosting",
             "name": "{{ page.title }}",
-            "headline": "{{ page.subtitle }}",
+            "headline": "{{ page.subtitle | default: page.title }}",
             "description": "{{ page.description }}",
             "image": "{{ page.image }}",
             "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
@@ -140,7 +140,7 @@
             "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
             "author": {
                 "@type": "Person",
-                "name": "{{ author.display_name }}",
+                "name": "{{ site.name }}",
                 {% if author.photo %}
                 "image": "{{ author.photo }}",
                 {% else %}
