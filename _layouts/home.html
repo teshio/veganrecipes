@@ -161,7 +161,7 @@ layout: main
                 "dateModified": "{{ post.date | date: '%Y-%m-%d/' }}",
                 "author": {
                     "@type": "Person",
-                    "name": "{{ author.display_name }}",
+                    "name": "{{ site.name }}",
                     "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}"
                 },
                 "publisher": {
@@ -175,6 +175,7 @@ layout: main
                         "height": "315"
                     }
                 },
+                "headline": "{{post.title}}",
                 "mainEntityOfPage": "True",
                 "genre": "{{ post.category | capitalize }}",
 		        "articleSection": "{{ post.category | capitalize }}",
